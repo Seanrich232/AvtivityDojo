@@ -1,0 +1,4 @@
+C:\Users\Sean2\OneDrive\Desktop\CodingDojo\C#\ASP.NET\AvtivityDojo\obj\Debug\netcoreapp2.0\AvtivityDojo.csprojResolveAssemblyReference.cache
+C:\Users\Sean2\OneDrive\Desktop\CodingDojo\C#\ASP.NET\AvtivityDojo\obj\Debug\netcoreapp2.0\AvtivityDojo.csproj.CoreCompileInputs.cache
+C:\Users\Sean2\OneDrive\Desktop\CodingDojo\C#\ASP.NET\AvtivityDojo\obj\Debug\netcoreapp2.0\AvtivityDojo.AssemblyInfoInputs.cache
+C:\Users\Sean2\OneDrive\Desktop\CodingDojo\C#\ASP.NET\AvtivityDojo\obj\Debug\netcoreapp2.0\AvtivityDojo.AssemblyInfo.cs
